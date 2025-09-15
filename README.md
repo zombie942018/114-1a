@@ -13,4 +13,4 @@
 ```
 ---
 
-高科大[點我前往網站](http://www.nkust.edu.tw)
+高科大[[點我前往網站]](http://www.nkust.edu.tw)
