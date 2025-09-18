@@ -17,4 +17,4 @@
 | 全聯福利中心 | 國立高雄科技大學 |
 
 ```
-Print("Hello, Markdown!")
+Print("Markdown is the best.")
