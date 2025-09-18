@@ -16,7 +16,7 @@
 高科大[[點我前往網站]](http://www.nkust.edu.tw)
 ![NKUST](nkust.png "NKUST")
 
-[![アイドル](https://i.kfs.io/album/global/246098653,0v1/fit/500x500.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygULcmljayBhc3RsZXmgBwE%3D "標題")
+[![アイドル](https://i.kfs.io/album/global/246098653,0v1/fit/500x500.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygULcmljayBhc3RsZXmgBwE%3D "アイドル")
 
 表格：
 | 向左對齊 | 置中對齊 | 向右對齊 |
