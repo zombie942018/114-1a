@@ -3,4 +3,5 @@
 - **Gamer**
 - 讀書
 - 唱歌
- *Take the rough with the smooth.*
+
+*Take the rough with the smooth.*
