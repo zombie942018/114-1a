@@ -10,4 +10,4 @@
 
 ![炸彈](https://grinews.com/news/wp-content/uploads/2015/05/%EF%BC%97%E5%A4%A7%E5%9C%B0%E9%9B%B71.jpg)
 
->>第一步是你必須說：「我辦得到」 — 威爾.史密斯
+>> 第一步是你必須說：「我辦得到」 — 威爾.史密斯
