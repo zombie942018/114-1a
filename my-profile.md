@@ -7,4 +7,5 @@
 *Take the rough with the smooth.*
 
 [踩地雷](https://xn--ces329jisf.com/)
+
 ![炸彈](https://grinews.com/news/wp-content/uploads/2015/05/%EF%BC%97%E5%A4%A7%E5%9C%B0%E9%9B%B71.jpg)
